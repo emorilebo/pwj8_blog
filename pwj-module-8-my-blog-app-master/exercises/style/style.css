@@ -17,6 +17,7 @@ header{
     align-items:center;
     background-image: url(../assets/banner.jpeg);
     background-size:cover;
+    background-position: center;
 }
 
 .profile-image{
@@ -37,6 +38,12 @@ header{
 .subtext{
     margin-top: 8px;
     text-align: center;
+}
+
+.main{
+    background-color: yellow;
+    height: 100px;
+    margin-top: 32px;
 }
 
 
